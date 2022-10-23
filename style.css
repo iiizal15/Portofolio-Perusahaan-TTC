@@ -1,11 +1,20 @@
-body {
+/* body {
   min-height: 3000px;
-}
+} */
 .jumbotron {
-  padding: 2rem 1rem;
+  padding: 8rem;
   background-image: url('gambar/bgjumbotron.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  /* background-color: #e2edff; */
+  /* background-color: #e2edff;
+  color: #d4bb1a */
+}
+
+#tentang {
+  padding: 8rem;
+}
+
+section {
+  padding-top: 5rem;
 }
