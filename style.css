@@ -1,0 +1,12 @@
+body {
+  min-height: 2000px;
+  /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
+}
+.jumbotron {
+  padding: 2rem 1rem;
+  background-image: url('gambar/background web.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  /* background-color: #e2edff; */
+}
